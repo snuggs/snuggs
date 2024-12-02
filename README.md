@@ -17,9 +17,7 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 
 
 ## Tech Stack
-<p align="center">
   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,vue,react,express,ruby,rails,postgres,docker,aws,nginx,linux,bash,vim,git)
-</p>
 
 ## 🌱 Currently Exploring
 
