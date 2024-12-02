@@ -13,12 +13,9 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 - ✍️ Content Writer at [dev.to/snuggs](https://dev.to/snuggs), gearing up to share valuable insights with the global coding community.
 
 
-## My Articles
-- Coming Soon!
-
-
 ## Tech Stack Experience
   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,vue,react,express,ruby,rails,postgres,docker,aws,nginx,linux,bash,vim,git)
+
 
 ## 🌱 Currently Exploring
 
