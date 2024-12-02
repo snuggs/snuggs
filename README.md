@@ -8,7 +8,7 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 
 - 🪙 Involved in Bitcoin Blockhain contributions since 2012.
 - 🏢 Building Information Modeling with Autodesk architecture tooling 10+ years)
-- 🔭 Continuous Open Source Software contributor comfortable in a leadership role.
+- 🔭 Prolific contributor to Open Source Software comfortable in a team leadership role.
 - 📝 I write lots of well tested code adhearing to specifications, guidelines, and constraints.
 - 🌐 Member of the [Web Hypertext Application Technology Working Group (WHATWG)](https://whatwg.org), responsible for maintaining the HTML Standard.
 - ✍️ Content Writer at [dev.to/snuggs](https://dev.to/snuggs), gearing up to share valuable insights with the global coding community.
