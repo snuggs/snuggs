@@ -10,9 +10,10 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 - 🏢 Building Information Modeling with Autodesk architecture tooling 10+ years)
 - 🔭 Prolific contributor to Open Source Software comfortable in a team leadership role.
 - 📝 I write lots of well tested code adhearing to specifications, guidelines, and constraints.
-- 🌐 Member of the [Web Hypertext Application Technology Working Group (WHATWG)](https://whatwg.org), responsible for maintaining the HTML Standard.
 - ✍️ Content Writer at [dev.to/snuggs](https://dev.to/snuggs), gearing up to share valuable insights with the global coding community.
-- [Find out more about me...](https://www.linkedin.com/in/devpunks)
+- 🌐 Member of the [Web Hypertext Application Technology Working Group (WHATWG)](https://whatwg.org), responsible for contributing to the HTML Standard, Custom Element Web Components, WebRTC API, & Web Audio API.
+
+[Find out more about me...](https://www.linkedin.com/in/devpunks)
 
 ## Tech Stack Experience
   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,vue,react,express,ruby,rails,postgres,docker,aws,nginx,linux,bash,vim,git)
