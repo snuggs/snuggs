@@ -7,7 +7,7 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 ## 🚀 [About Me](https://www.linkedin.com/in/devpunks)
 
 - 🪙 Involved in Bitcoin Blockhain contributions since 2012.
-- 🏢 Building Information Modeling with Autodesk architecture tooling 10+ years)
+- 🏢 Building Information Modeling with Autodesk architecture tooling _(10+ years)_
 - 🔭 Prolific contributor to Open Source Software comfortable in a team leadership role.
 - 📝 I write lots of well tested code adhearing to specifications, guidelines, and constraints.
 - ✍️ Content Writer at [dev.to/snuggs](https://dev.to/snuggs), gearing up to share valuable insights with the global coding community.
@@ -23,7 +23,7 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 
 - 🧠 Artificial Intelligence
   - A.I. Prompting & efficiency refactoring in needle retrieval.
-  - Serialize PostgreSQL datasets into RAG (Retrieval-Augmented Generation).
+  - Serialize PostgreSQL datasets into RAG _(Retrieval-Augmented Generation)_.
 - 🚀 Full Stack Web Development
   - Exploring the ins and outs of for dynamic front-end experiences.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
