@@ -19,15 +19,17 @@ My journey involves delving into the world of Science, Technology, Engineering, 
   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,vue,react,express,ruby,rails,postgres,docker,aws,nginx,linux,bash,vim,git)
 
 
-## 🌱 Currently Exploring
+## 🌱 Experience
 
-- 🧠 Artificial Intelligence prompting driven by Machine Learning.
+- 🧠 Artificial Intelligence
+  - A.I. Prompting & efficiency refactoring in needle retrieval.
+  - Serialize PostgreSQL datasets into RAG (Retrieval-Augmented Generation).
 - 🚀 Full Stack Web Development
   - Exploring the ins and outs of for dynamic front-end experiences.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Utilizing A11y practices under WCAG2 guidelines for a more accessible web.
-  - Building server-side applications while knowing when to implement serverless as an adequate solution.
   - Diving into PostgreSQL & PostGIS for efficient and scalable geospacial database management.
+  - Building server-side applications while knowing when to implement serverless as an adequate solution.
 - 🎸 Playing Guitar, Bass, & Drums 🥁
 
  ## 🏆 Achievements
