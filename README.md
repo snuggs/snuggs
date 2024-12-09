@@ -22,7 +22,7 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 ## 🌱 Experience
 
 - 🧠 Artificial Intelligence
-  - Vector input models using Lamma3.2:1b
+  - Vector input models using [Llamma3.2:1b](https://analyticsvidhya.com/blog/2024/09/llama-3-2-models/#h-llama-3-2-1b-and-3b-text-models)
   - A.I. Prompting & efficiency refactoring in needle retrieval.
   - Serialize PostgreSQL datasets into RAG _(Retrieval-Augmented Generation)_.
 - 🚀 Full Stack Web Development
