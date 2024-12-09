@@ -7,6 +7,7 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 ## 🚀 [About Me](https://www.linkedin.com/in/devpunks)
 
 - 🪙 Involved in Bitcoin Blockhain contributions since 2012.
+- 🧠 Familiarity with [Llama3.2:1b](https://ollama.com/library/llama3.2:1b) A.I. Model Retrieval using [pgvector](https://github.com/pgvector/pgvector)
 - 🏢 Building Information Modeling with Autodesk architecture tooling _(10+ years)_
 - 🔭 Prolific contributor to Open Source Software comfortable in a team leadership role.
 - 📝 I write lots of well tested code adhearing to specifications, guidelines, and constraints.
@@ -36,8 +37,8 @@ My journey involves delving into the world of Science, Technology, Engineering, 
  ## 🏆 Achievements
 
 - 🌟 Inaugural organizer and lead speaker for Tech In Motion NYC.
-- 🌟 Speaker at many technology conferences around the world. (e.g. GOOGLE, Ruby Conf, JS Conf Paris, Valley Conf)
 - 🌟 Lead Organizer over the largest Ruby Meetup group in NYC taking it from a membership of 300 to 5,000+
+- 🌟 Speaker at many technology conferences around the world. (e.g. GOOGLE, Ruby Conf, JS Conf Paris, Valley Conf)
 
 
 ## 📬 Get in Touch
