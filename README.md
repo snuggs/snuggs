@@ -6,8 +6,8 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 
 ## 🚀 [About Me](https://www.linkedin.com/in/devpunks)
 
-- 🪙 Involved in Bitcoin Blockhain contributions since 2012.
-- 🧠 Familiarity with [Llama3.2:1b](https://ollama.com/library/llama3.2:1b) A.I. Model Retrieval using [pgvector](https://github.com/pgvector/pgvector)
+- 🪙 Involved in Bitcoin & Blockhain contributions since 2012.
+- 🧠 Familiarity with [Multi-modal Llama3.2:1b](https://ollama.com/library/llama3.2:1b) A.I. Model Retrieval using [pgvector](https://github.com/pgvector/pgvector)
 - 🏢 Building Information Modeling with Autodesk architecture tooling _(10+ years)_
 - 🔭 Prolific contributor to Open Source Software comfortable in a team leadership role.
 - 📝 I write lots of well tested code adhearing to specifications, guidelines, and constraints.
