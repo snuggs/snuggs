@@ -7,8 +7,8 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 ## 🚀 [About Me](https://www.linkedin.com/in/devpunks)
 
 - 🪙 Involved in Bitcoin & Blockhain contributions since 2012.
-- 🧠 A.I. Prompting & efficiency refactoring in needle retrieval.
 - 🏢 Building Information Modeling with Autodesk architecture tooling _(10+ years)_
+- 🧠 OpenAI/ChatGPT Generative Prompting & efficiency refactoring in needle retrieval.
 - 🔭 Prolific contributor to Open Source Software comfortable in a team leadership role.
 - 📝 I write lots of well tested code adhearing to specifications, guidelines, and constraints.
 - ✍️ Content Writer at [dev.to/snuggs](https://dev.to/snuggs), gearing up to share valuable insights with the global coding community.
