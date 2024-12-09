@@ -22,11 +22,12 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 ## 🌱 Experience
 
 - 🧠 Artificial Intelligence
+  - Vector input models using Lamma3.2:1b
   - A.I. Prompting & efficiency refactoring in needle retrieval.
   - Serialize PostgreSQL datasets into RAG _(Retrieval-Augmented Generation)_.
 - 🚀 Full Stack Web Development
   - Exploring the ins and outs of for dynamic front-end experiences.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Styling with modern CSS to create modern and responsive user interfaces.
   - Utilizing A11y practices under WCAG2 guidelines for a more accessible web.
   - Diving into PostgreSQL & PostGIS for efficient and scalable geospacial database management.
   - Building server-side applications while knowing when to implement serverless as an adequate solution.
