@@ -8,8 +8,8 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 
 - 🪙 Involved in Bitcoin & Blockhain contributions since 2012.
 - 🏢 Building Information Modeling with Autodesk architecture tooling _(10+ years)_
-- 🧠 OpenAI/ChatGPT Generative Prompting & efficiency refactoring in needle retrieval.
 - 🔭 Prolific contributor to Open Source Software comfortable in a team leadership role.
+- 🧠 OpenAI/ChatGPT 3.5 Generative Prompting & efficiency refactoring in needle retrieval.
 - 📝 I write lots of well tested code adhearing to specifications, guidelines, and constraints.
 - ✍️ Content Writer at [dev.to/snuggs](https://dev.to/snuggs), gearing up to share valuable insights with the global coding community.
 - 🌐 Member of the [Web Hypertext Application Technology Working Group (WHATWG)](https://whatwg.org), responsible for contributing to the HTML Standard, Custom Element Web Components, WebRTC API, & Web Audio API.
