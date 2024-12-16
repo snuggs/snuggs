@@ -1,5 +1,6 @@
  Hi, I'm Snuggs! 👋
 
+I'm an Engineer having 10+ years of experience working in various domains like full stack web development, Blockchain cryptocurrency technologies, and backend data engineering.
 I am a passionate builder, driven by a curiosity for technology and a love for solving problems with code.
 My journey involves delving into the world of Science, Technology, Engineering, and Music while sharing my insights with the community.
 
