@@ -5,13 +5,15 @@ I am a passionate builder, driven by a curiosity for technology and a love for s
 My journey involves delving into the world of Science, Technology, Engineering, and Music while sharing my insights with the community.
 
 
-## 🚀 [About Me](https://www.linkedin.com/in/devpunks)
+## 👤 [About Me](https://www.linkedin.com/in/devpunks)
 
 - 🪙 Involved in Bitcoin & Blockhain contributions since 2012.
 - 🏢 Building Information Modeling with Autodesk architecture tooling _(10+ years)_
-- 🤖 Expert in GIT(hub) etiquette & Continuous Integration (C/I) automation workflows. 
 - 🔭 Prolific contributor to Open Source Software comfortable in a team leadership role.
-- 🧠 OpenAI/ChatGPT 3.5 Generative Prompting & efficiency refactoring in needle retrieval.
+- 🚀 Expert in Continuous Integration/Deployment automation workflows & GIT(hub) etiquette. 
+- 🧠 OpenAI/ChatGPT 3.5 Generative Prompting & efficiency refactoring in LLM needle retrieval.
+
+## 👥 Community Contributions
 - 📝 I write lots of well tested code adhearing to specifications, guidelines, and constraints.
 - ✍️ Content Writer at [dev.to/snuggs](https://dev.to/snuggs), gearing up to share valuable insights with the global coding community.
 - 🌐 Member of the [Web Hypertext Application Technology Working Group (WHATWG)](https://whatwg.org), responsible for contributing to the HTML Standard, Custom Element Web Components, WebRTC API, & Web Audio API.
