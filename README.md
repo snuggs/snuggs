@@ -9,6 +9,7 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 
 - 🪙 Involved in Bitcoin & Blockhain contributions since 2012.
 - 🏢 Building Information Modeling with Autodesk architecture tooling _(10+ years)_
+- 🤖 Expert in GIT(hub) etiquette & Continuous Integration (C/I) automation workflows. 
 - 🔭 Prolific contributor to Open Source Software comfortable in a team leadership role.
 - 🧠 OpenAI/ChatGPT 3.5 Generative Prompting & efficiency refactoring in needle retrieval.
 - 📝 I write lots of well tested code adhearing to specifications, guidelines, and constraints.
