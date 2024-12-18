@@ -13,7 +13,7 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 - 🚀 Expert in Continuous Integration/Deployment automation workflows & GIT(hub) etiquette. 
 - 🧠 OpenAI/ChatGPT 3.5 Generative Prompting & efficiency refactoring in LLM needle retrieval.
 
-## 👥 Community Contributions
+## 👥 [Community Contributions](https://youtube.com/watch?v=A5ad52AogJ8)
 - 📝 I write lots of well tested code adhearing to specifications, guidelines, and constraints.
 - ✍️ Content Writer at [dev.to/snuggs](https://dev.to/snuggs), gearing up to share valuable insights with the global coding community.
 - 🌐 Member of the [Web Hypertext Application Technology Working Group (WHATWG)](https://whatwg.org), responsible for contributing to the HTML Standard, Custom Element Web Components, WebRTC API, & Web Audio API.
