@@ -20,11 +20,11 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 
 [Find out more about me...](https://www.linkedin.com/in/devpunks)
 
-## Tech Stack Experience
+## 🤖 [Tech Stack Experience](https://docs.google.com/document/d/1dGptZT8R3mG69ifYAIBXp6TzMN0ZeLoxeh3QxWOPEl0)
   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,vue,react,express,ruby,rails,postgres,docker,aws,nginx,linux,bash,vim,git)
 
 
-## 🌱 Experience
+## 🌱 [Experience](https://docs.google.com/document/d/1dGptZT8R3mG69ifYAIBXp6TzMN0ZeLoxeh3QxWOPEl0)
 
 - 🧠 Artificial Intelligence
   - Familiarity with [Multi-modal A.I. Model Retrieval](https://llama.com/docs/model-cards-and-prompt-formats/llama3_2) via [ollama](https://ollama.com/library/llama3.2:1b) & [pgvector](https://github.com/pgvector/pgvector)
