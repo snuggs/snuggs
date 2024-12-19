@@ -16,7 +16,7 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 ## 🤖 Technologies Used
   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,vue,react,express,ruby,rails,postgres,docker,aws,nginx,linux,bash,vim,git)
 
-[📜Find out more about me...](https://docs.google.com/document/d/1dGptZT8R3mG69ifYAIBXp6TzMN0ZeLoxeh3QxWOPEl0)
+[📜 Find out more about me...](https://docs.google.com/document/d/1dGptZT8R3mG69ifYAIBXp6TzMN0ZeLoxeh3QxWOPEl0)
 
 ## 👥 [Community Contributions](https://youtube.com/watch?v=A5ad52AogJ8)
 - 📝 I write lots of well tested code adhearing to specifications, guidelines, and constraints.
