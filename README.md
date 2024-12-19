@@ -29,7 +29,7 @@ My journey involves delving into the world of Science, Technology, Engineering, 
   - Familiarity with [Multi-modal A.I. Model Retrieval](https://llama.com/docs/model-cards-and-prompt-formats/llama3_2) via [ollama](https://ollama.com/library/llama3.2:1b) & [pgvector](https://github.com/pgvector/pgvector)
   - Generative Vector input model prompting & indexing using [Llamma3.2:1b](https://analyticsvidhya.com/blog/2024/09/llama-3-2-models/#h-llama-3-2-1b-and-3b-text-models)
   - Serialize PostgreSQL datasets into RAG _(Retrieval-Augmented Generation)_.
-- 🚀 Full Stack Web Development
+- 🥞 Full Stack Web Development
   - Exploring the ins and outs of for dynamic front-end experiences.
   - Styling with modern CSS to create modern and responsive user interfaces.
   - Utilizing A11y practices under WCAG2 guidelines for a more accessible web.
