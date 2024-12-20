@@ -21,7 +21,7 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 ## 👥 [Community Contributions](https://youtube.com/watch?v=A5ad52AogJ8)
 - 📝 I write lots of well tested code adhearing to specifications, guidelines, and constraints.
 - ✍️ Content Writer at [dev.to/snuggs](https://dev.to/snuggs), gearing up to share valuable insights with the global coding community.
-- 🌐 Member of the [Web Hypertext Application Technology Working Group (WHATWG)](https://whatwg.org), responsible for [reviewing & contributing](https://github.com/whatwg/infra/blob/main/infra.bs#L2239-L2274) to the HTML Standard, [Custom Element Web Components](https://github.com/web-platform-tests/wpt/blob/master/custom-elements/META.yml#L3), [WebRTC API](https://github.com/web-platform-tests/wpt/blob/master/webrtc/META.yml#L3), & Web Audio API.
+- 🌐 Member of the [Web Hypertext Application Technology Working Group (WHATWG)](https://whatwg.org), responsible for [reviewing & contributing](https://github.com/whatwg/infra/blob/main/infra.bs#L2239-L2274) to the [HTML Standard](https://github.com/orgs/whatwg/teams/components), [Custom Element Web Components](https://github.com/web-platform-tests/wpt/blob/master/custom-elements/META.yml#L3), [WebRTC API](https://github.com/web-platform-tests/wpt/blob/master/webrtc/META.yml#L3), & Web Audio API.
 
 ## 🌱 [Experience](https://www.linkedin.com/in/devpunks)
 
