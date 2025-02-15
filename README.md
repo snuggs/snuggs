@@ -30,7 +30,7 @@ My journey involves delving into the world of Science, Technology, Engineering, 
   - Generative CoT _(Chain of Thought)_ Vector input model prompting & indexing using [Llamma3.2:1b](https://analyticsvidhya.com/blog/2024/09/llama-3-2-models/#h-llama-3-2-1b-and-3b-text-models)
   - Serialize PostgreSQL datasets into RAG _(Retrieval-Augmented Generation)_.
 - 🥞 Full Stack Web Development
-  - Exploring the ins and outs of for dynamic front-end experiences.
+  - Exploring native-like dynamic experiences via [Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
   - Styling with modern CSS to create modern and responsive user interfaces.
   - Utilizing A11y practices under WCAG2 guidelines for a more accessible web.
   - Diving into PostgreSQL & PostGIS for efficient and scalable geospacial database management.
