@@ -8,10 +8,10 @@ My journey involves delving into the world of Science, Technology, Engineering, 
 ## 👤 [About Me](https://docs.google.com/document/d/1dGptZT8R3mG69ifYAIBXp6TzMN0ZeLoxeh3QxWOPEl0)
 
 - 🪙 Involved in Bitcoin ecosystem contributions & Layer 2 Blockhain since 2012.
-- 🏢 Building Information Modeling with Autodesk architecture tooling _(10+ years)_
 - 🔭 Prolific contributor to Open Source Software comfortable in a team leadership role.
 - 🚀 Expert in Continuous Integration/Deployment automation workflows & GIT(hub) etiquette. 
 - 🧠 OpenAI/ChatGPT 3.5 Generative Prompting & efficiency refactoring in LLM needle retrieval.
+- 🏢 Building Information Modeling with Autodesk architecture tooling _(10+ years)_.
 
 ## 🤖 Technologies Used
   ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,npm,vue,react,express,ruby,rails,postgres,docker,aws,nginx,linux,bash,vim,git)
