@@ -31,8 +31,8 @@ My journey involves delving into the world of Science, Technology, Engineering, 
   - Serialize PostgreSQL datasets into RAG _(Retrieval-Augmented Generation)_.
 - 🥞 Full Stack Web Development
   - Exploring native-like dynamic experiences via [Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
-  - Styling with modern CSS to create modern and responsive user interfaces.
-  - Utilizing A11y practices under WCAG2 guidelines for a more accessible web.
+  - Styling with modern CSS to create beautiful and responsive user interfaces.
+  - Utilizing A11y practices under WCAG2 guidelines for a more accessible web experience.
   - Diving into PostgreSQL & PostGIS for efficient and scalable geospacial database management.
   - Building server-side applications while knowing when to implement serverless as an adequate solution.
 - 🎸 Playing Guitar, Bass, & Drums 🥁
