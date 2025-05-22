@@ -2,7 +2,7 @@
 
 I am an Engineer having 10+ years of experience working in various domains like full stack web development, blockchain cryptocurrency technologies, and backend data engineering.
 I'm a passionate builder, driven by a curiosity for technology and a love for solving problems with code.
-My journey involves delving into the world of Science, Technology, Engineering, and Music while sharing my insights with the community.
+My journey involves delving into the world of Science, Technology, Engineering, and Music while sharing my insights with the broader community.
 
 
 ## 👤 [About Me](https://docs.google.com/document/d/1dGptZT8R3mG69ifYAIBXp6TzMN0ZeLoxeh3QxWOPEl0)
